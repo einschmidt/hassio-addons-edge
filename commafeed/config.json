@@ -1,0 +1,21 @@
+{
+    "name": "CommaFeed",
+    "version": "edge",
+    "slug": "commafeed",
+    "description": "Google Reader inspired self-hosted RSS reader.",
+    "url": "https://github.com/einschmidt/hassio-addons/tree/master/commafeed",
+    "arch": ["armhf", "armv7", "amd64", "aarch64"],
+    "startup": "services",
+    "boot": "auto",
+    "hassio_api": true,
+    "hassio_role": "default",
+    "options": {
+        "log_level": "info"
+    },
+    "schema": {
+        "log_level": "list(trace|debug|info|notice|warning|error|fatal)"
+    },
+    "environment": {
+        "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
+    }
+}

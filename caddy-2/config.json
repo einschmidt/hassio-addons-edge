@@ -14,10 +14,7 @@
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
-  "map": [
-    "share",
-    "ssl:rw"
-  ],
+  "map": ["share", "config", "ssl:rw"],
   "host_network": true,
   "options": {
     "non_caddyfile_config": {
@@ -29,21 +26,21 @@
     "args": [],
     "env_vars": [],
     "log_level": "info"
-  },
+    },
   "schema": {
     "non_caddyfile_config": {
-      "email": "str",
-      "domain": "str",
-      "destination": "str",
-      "port": "int"
+      "email": "str?",
+      "domain": "str?",
+      "destination": "str?",
+      "port": "int?"
     },
-    "args": [
-      "str"
-    ],
+    "config_path": "str?",
+    "custom_binary_path": "str?",
+    "args": ["str"],
     "env_vars": [
       {
-        "name": "str",
-        "value": "str"
+          "name": "str",
+          "value": "str"
       }
     ],
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)"

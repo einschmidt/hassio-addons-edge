@@ -1,6 +1,6 @@
 {
   "name": "Caddy 2 Edge",
-  "version": "2020-12-26-09-48",
+  "version": "2021-01-01-09-54",
   "slug": "caddy2edge",
   "description": "Caddy 2 web server",
   "url": "https://github.com/berichta/hassio-addons/tree/master/Caddy%202",
@@ -14,7 +14,11 @@
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
-  "map": ["share", "config", "ssl:rw"],
+  "map": [
+    "share",
+    "config",
+    "ssl:rw"
+  ],
   "host_network": true,
   "options": {
     "non_caddyfile_config": {
@@ -26,7 +30,7 @@
     "args": [],
     "env_vars": [],
     "log_level": "info"
-    },
+  },
   "schema": {
     "non_caddyfile_config": {
       "email": "str?",
@@ -36,11 +40,13 @@
     },
     "config_path": "str?",
     "custom_binary_path": "str?",
-    "args": ["str"],
+    "args": [
+      "str"
+    ],
     "env_vars": [
       {
-          "name": "str",
-          "value": "str"
+        "name": "str",
+        "value": "str"
       }
     ],
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)"

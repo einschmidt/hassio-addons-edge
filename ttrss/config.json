@@ -35,6 +35,6 @@
     "certfile": "str",
     "keyfile": "str",
     "ssl": "bool"
-  }
+  },
   "image": "berichta/ttrss-{arch}"
 }

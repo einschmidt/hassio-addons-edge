@@ -1,33 +1,32 @@
 {
   "name": "TT-RSS",
-  "version": "2021-01-09-16-37",
+  "version": "dev",
   "slug": "ttrss",
   "description": "RSS Aggregator",
   "url": "https://github.com/einschmidt/hassio-addons/tree/master/ttrss",
-  "arch": [
-    "armhf",
-    "armv7",
-    "amd64",
-    "aarch64"
-  ],
-  "startup": "services",
+  "ingress": true,
+  "ingress_port": 9999,
+  "panel_icon": "mdi:cart",
+  "arch": ["armhf", "armv7", "amd64", "aarch64"],
+  "startup": "system",
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
-  "map": [
-    "share",
-    "config",
-    "ssl:rw"
-  ],
-  "host_network": true,
+  "map": ["ssl"],
+  "ports": {
+      "80/tcp": null
+  },
+  "ports_description": {
+      "80/tcp": "Web interface (Not required for Ingress)"
+  },
   "options": {
-    "log_level": "info"
+      "log_level": "info"
   },
   "schema": {
-    "log_level": "list(trace|debug|info|notice|warning|error|fatal)"
+      "log_level": "list(trace|debug|info|notice|warning|error|fatal)"
   },
   "environment": {
-    "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
+      "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
   "image": "berichta/ttrss-{arch}"
 }

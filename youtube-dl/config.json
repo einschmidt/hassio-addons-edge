@@ -41,7 +41,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "hassio_role": "default",
-  "hassio_api": true,
   "image": "berichta/youtube-dl-{arch}"
 }

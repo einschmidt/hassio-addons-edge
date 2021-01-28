@@ -84,10 +84,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/0a8751f
-[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/0a8751f/README.md
+[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/35a3267
+[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/35a3267/README.md
 [youtube-dl-issue]: https://github.com/einschmidt/addon-youtube-dl/issues
-[youtube-dl-version-shield]: https://img.shields.io/badge/version-0a8751f-blue.svg
+[youtube-dl-version-shield]: https://img.shields.io/badge/version-35a3267-blue.svg
 [youtube-dl-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [youtube-dl-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [youtube-dl-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

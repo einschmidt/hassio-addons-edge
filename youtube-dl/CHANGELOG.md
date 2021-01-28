@@ -1,4 +1,9 @@
 # Changelog since 0.0.2
+- Merge pull request #25 from einschmidt/einschmidt-patch-1
+
+Update labels and workflows 
+- Update labels.yml 
+- Update workflows 
 - Update config.json 
 - Update ci.yaml 
 - Merge pull request #24 from einschmidt/Update-README.md

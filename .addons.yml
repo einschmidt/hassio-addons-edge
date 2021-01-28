@@ -1,11 +1,7 @@
 ---
 channel: edge
 addons:
-  caddy-2:
-    repository: einschmidt/addon-caddy-2
-    target: "Caddy 2"
-    image: berichta/caddy-2-{arch}
   youtube-dl:
-    repository: einschmidt/youtube-dl
+    repository: einschmidt/addon-youtube-dl
     target: youtube-dl
     image: ghcr.io/einschmidt/youtube-dl/{arch}

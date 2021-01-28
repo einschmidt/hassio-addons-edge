@@ -28,7 +28,7 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/einschmidt/hassio-addons-dev
+https://github.com/einschmidt/hassio-addons-edge
 ```
 
 ## Add-ons provided by this repository
@@ -100,8 +100,8 @@ SOFTWARE.
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io?u=frenck
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/einschmidt/hassio-addons-dev/issues
-[license-shield]: https://img.shields.io/github/license/einschmidt/hassio-addons-dev.svg
+[issue]: https://github.com/einschmidt/hassio-addons-edge/issues
+[license-shield]: https://img.shields.io/github/license/einschmidt/hassio-addons-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [reddit]: https://reddit.com/r/homeassistant

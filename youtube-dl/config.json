@@ -1,6 +1,6 @@
 {
   "name": "youtube-dl dev",
-  "version": "2021-01-19-17-27",
+  "version": "0a8751f",
   "slug": "youtube-dl-dev",
   "description": "Download videos from youtube.com and a few more sites",
   "url": "https://github.com/berichta/hassio-addons",
@@ -41,5 +41,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "berichta/youtube-dl-{arch}"
+  "image": "ghcr.io/einschmidt/youtube-dl/{arch}"
 }

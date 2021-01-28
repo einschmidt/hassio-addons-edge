@@ -8,4 +8,4 @@ addons:
   youtube-dl:
     repository: einschmidt/youtube-dl
     target: youtube-dl
-    image: berichta/youtube-dl-{arch}
+    image: ghcr.io/einschmidt/youtube-dl-{arch}

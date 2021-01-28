@@ -1,4 +1,5 @@
 # Changelog since 0.0.2
+- Update config.json 
 - Update ci.yaml 
 - Merge pull request #24 from einschmidt/Update-README.md
 

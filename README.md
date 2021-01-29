@@ -33,6 +33,19 @@ https://github.com/einschmidt/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Caddy 2 Edge][addon-caddy-2]
+
+![Latest Version][caddy-2-version-shield]
+![Supports armhf Architecture][caddy-2-armhf-shield]
+![Supports armv7 Architecture][caddy-2-armv7-shield]
+![Supports aarch64 Architecture][caddy-2-aarch64-shield]
+![Supports amd64 Architecture][caddy-2-amd64-shield]
+![Supports i386 Architecture][caddy-2-i386-shield]
+
+Caddy 2 web server
+
+[:books: Caddy 2 Edge add-on documentation][addon-doc-caddy-2]
+
 ### &#10003; [youtube-dl][addon-youtube-dl]
 
 ![Latest Version][youtube-dl-version-shield]
@@ -84,6 +97,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-caddy-2]: https://github.com/einschmidt/addon-caddy-2/tree/4f5b795
+[addon-doc-caddy-2]: https://github.com/einschmidt/addon-caddy-2/blob/4f5b795/README.md
+[caddy-2-issue]: https://github.com/einschmidt/addon-caddy-2/issues
+[caddy-2-version-shield]: https://img.shields.io/badge/version-4f5b795-blue.svg
+[caddy-2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[caddy-2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/8ff6cee
 [addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/8ff6cee/README.md
 [youtube-dl-issue]: https://github.com/einschmidt/addon-youtube-dl/issues

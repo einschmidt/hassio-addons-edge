@@ -33,7 +33,7 @@ https://github.com/einschmidt/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Caddy 2 Edge][addon-caddy-2]
+### &#10003; [Caddy 2][addon-caddy-2]
 
 ![Latest Version][caddy-2-version-shield]
 ![Supports armhf Architecture][caddy-2-armhf-shield]
@@ -42,9 +42,9 @@ https://github.com/einschmidt/hassio-addons-edge
 ![Supports amd64 Architecture][caddy-2-amd64-shield]
 ![Supports i386 Architecture][caddy-2-i386-shield]
 
-Caddy 2 web server
+Powerful server with automatic HTTPS
 
-[:books: Caddy 2 Edge add-on documentation][addon-doc-caddy-2]
+[:books: Caddy 2 add-on documentation][addon-doc-caddy-2]
 
 ### &#10003; [youtube-dl][addon-youtube-dl]
 

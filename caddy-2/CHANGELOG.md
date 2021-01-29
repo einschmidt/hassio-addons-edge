@@ -1,4 +1,6 @@
 # Changelog since 0.1.1
+- Delete scripts 
+- Add files via upload 
 - Update dockerfile 
 - Create run 
 - Delete run 

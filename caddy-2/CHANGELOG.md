@@ -1,4 +1,7 @@
 # Changelog since 0.1.1
+- Update dockerfile 
+- Create run 
+- Delete run 
 - Update Caddy description in config.json 
 - Update DOCS.md 
 - Update DOCS.md 

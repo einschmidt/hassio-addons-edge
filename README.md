@@ -106,10 +106,10 @@ SOFTWARE.
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/8ff6cee
-[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/8ff6cee/README.md
+[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/39f6cf5
+[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/39f6cf5/README.md
 [youtube-dl-issue]: https://github.com/einschmidt/addon-youtube-dl/issues
-[youtube-dl-version-shield]: https://img.shields.io/badge/version-8ff6cee-blue.svg
+[youtube-dl-version-shield]: https://img.shields.io/badge/version-39f6cf5-blue.svg
 [youtube-dl-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [youtube-dl-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [youtube-dl-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

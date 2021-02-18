@@ -1,11 +1,9 @@
 {
   "name": "yarr!",
-  "version": "21bb454",
+  "version": "6ea487c",
   "slug": "yarr",
   "description": "Yet another rss reader",
   "url": "https://github.com/einschmidt/addon-yarr",
-  "ingress": true,
-  "ingress_port": 7071,
   "panel_icon": "mdi:rss-box",
   "arch": [
     "armhf",
@@ -14,10 +12,10 @@
     "aarch64"
   ],
   "ports": {
-    "80/tcp": null
+    "80/tcp": 7070
   },
   "ports_description": {
-    "80/tcp": "Web interface (Not required for Ingress)"
+    "80/tcp": "Web interface"
   },
   "map": [
     "share:rw",

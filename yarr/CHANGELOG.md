@@ -1,46 +1,45 @@
-# Changelog since v0.0.5
-- Merge pull request #21 from einschmidt:Push-base-image-version-to-9.1.4
+# Changelog since v0.1.0
+- Merge pull request #29 from einschmidt:Update-Dockerfile-for-yarr-1.4
 
-Push-base-image-version-to-9.1.4 
-- Update build.json 
-- Merge pull request #16 from einschmidt/dependabot/github_actions/docker/build-push-action-v2.3.0
+Update Dockerfile for yarr 1.4 
+- Update Dockerfile for yarr 1.4 
+- Merge pull request #28 from einschmidt:Bump-base-image-to-9.1.5
 
-Bump docker/build-push-action from v2.2.2 to v2.3.0 
-- Merge pull request #20 from einschmidt:Smaller-fixes
+Bump base image to 9.1.5 
+- Bump base image to 9.1.5 
+- Merge pull request #27 from einschmidt/revert-25-Remove-Gofeed
 
-Smaller-fixes 
-- Fix config.json 
-- Fix DOCS.md 
-- Merge pull request #19 from einschmidt:Change-default-port
+Revert "Update Dockerfile" 
+- Revert "Update Dockerfile" 
+- Merge pull request #26 from einschmidt/Bump-Git
 
-Change-default-port 
-- enable default port 7070 
-- Merge pull request #18 from einschmidt:Update-to-yarr-v1.3
+Bump Git to 2.30.2-r0 
+- Bump Git to 2.30.2-r0 
+- Merge pull request #25 from einschmidt/Remove-Gofeed
 
-Update-to-yarr-v1.3 
+Update Dockerfile 
 - Update Dockerfile 
-- Merge pull request #17 from einschmidt:Disable-ingress
+- Merge pull request #24 from einschmidt/Update-yarr
 
-Disable-ingress 
-- Disable ingress 
-- Bump docker/build-push-action from v2.2.2 to v2.3.0
+Update Dockerfile 
+- Update Dockerfile 
+- Merge pull request #23 from einschmidt/dependabot/github_actions/actions/stale-v3.0.18
 
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v2.2.2...9379083e426e2e84abb80c8c091f5cdeb7d3fd7a)
+Bump actions/stale from v3.0.17 to v3.0.18 
+- Bump actions/stale from v3.0.17 to v3.0.18
 
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #15 from einschmidt/dependabot/github_actions/release-drafter/release-drafter-v5.14.0
-
-Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 
-- Bump release-drafter/release-drafter from v5.13.0 to v5.14.0
-
-Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
-- [Release notes](https://github.com/release-drafter/release-drafter/releases)
-- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.13.0...e5ccf147077e46b0225a80bbe314d795d77bb7a2)
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.17...3b3c3f03cd4d8e2b61e179ef744a0d20efbe90b4)
 
 Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #14 from einschmidt:Add-user-authentication
+- Merge pull request #22 from einschmidt/dependabot/github_actions/actions/stale-v3.0.17
 
-Add-user-authentication 
-- Add auth 
+Bump actions/stale from v3.0.16 to v3.0.17 
+- Bump actions/stale from v3.0.16 to v3.0.17
+
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.16 to v3.0.17.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.16...996798eb71ef485dc4c7b4d3285842d714040c4a)
+
+Signed-off-by: dependabot[bot] <support@github.com> 

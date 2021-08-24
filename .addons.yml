@@ -13,3 +13,7 @@ addons:
     repository: einschmidt/addon-youtube-dl
     target: youtube-dl
     image: ghcr.io/einschmidt/youtube-dl/{arch}
+  matrix:
+    repository: einschmidt/addon-matrix
+    target: matrix
+    image: ghcr.io/einschmidt/matrix/{arch}

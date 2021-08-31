@@ -46,6 +46,19 @@ Open source web and proxy server with automatic HTTPS
 
 [:books: Caddy 2 add-on documentation][addon-doc-caddy-2]
 
+### &#10003; [Matrix][addon-matrix]
+
+![Latest Version][matrix-version-shield]
+![Supports armhf Architecture][matrix-armhf-shield]
+![Supports armv7 Architecture][matrix-armv7-shield]
+![Supports aarch64 Architecture][matrix-aarch64-shield]
+![Supports amd64 Architecture][matrix-amd64-shield]
+![Supports i386 Architecture][matrix-i386-shield]
+
+A second-generation Matrix homeserver
+
+[:books: Matrix add-on documentation][addon-doc-matrix]
+
 ### &#10003; [yarr!][addon-yarr]
 
 ![Latest Version][yarr-version-shield]
@@ -119,6 +132,15 @@ SOFTWARE.
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/415f37d
+[addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/415f37d/README.md
+[matrix-issue]: https://github.com/einschmidt/addon-matrix/issues
+[matrix-version-shield]: https://img.shields.io/badge/version-415f37d-blue.svg
+[matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/v0.2.1
 [addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/v0.2.1/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues

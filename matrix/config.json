@@ -1,11 +1,16 @@
 {
   "name": "Matrix",
-  "version": "76024a2",
+  "version": "0.0.1",
   "slug": "matrix",
   "description": "A second-generation Matrix homeserver",
   "url": "https://github.com/einschmidt/addon-matrix",
   "panel_icon": "mdi:rss-box",
-  "arch": ["armhf", "armv7", "amd64", "aarch64"],
+  "arch": [
+    "armhf",
+    "armv7",
+    "amd64",
+    "aarch64"
+  ],
   "ports": {
     "8008/tcp": 8008,
     "8448/tcp": 8448

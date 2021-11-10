@@ -1,6 +1,6 @@
 {
   "name": "Matrix",
-  "version": "415f37d",
+  "version": "76024a2",
   "slug": "matrix",
   "description": "A second-generation Matrix homeserver",
   "url": "https://github.com/einschmidt/addon-matrix",

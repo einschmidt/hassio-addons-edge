@@ -1,0 +1,23 @@
+arch:
+- armhf
+- armv7
+- amd64
+- aarch64
+description: A second-generation Matrix homeserver
+image: ghcr.io/einschmidt/matrix/{arch}
+map: []
+name: Matrix
+options:
+  server_name: localhost
+panel_icon: mdi:rss-box
+ports:
+  8008/tcp: 8008
+  8448/tcp: 8448
+ports_description:
+  8008/tcp: Matrix Dendrite Home Server
+  8448/tcp: Matrix Dendrite Home Server
+schema:
+  server_name: str
+slug: matrix
+url: https://github.com/einschmidt/addon-matrix
+version: eca4438

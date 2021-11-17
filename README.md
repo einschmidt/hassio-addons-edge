@@ -150,10 +150,10 @@ SOFTWARE.
 [yarr-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [yarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [yarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/a685673
-[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/a685673/README.md
+[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/75b21b7
+[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/75b21b7/README.md
 [youtube-dl-issue]: https://github.com/einschmidt/addon-youtube-dl/issues
-[youtube-dl-version-shield]: https://img.shields.io/badge/version-a685673-blue.svg
+[youtube-dl-version-shield]: https://img.shields.io/badge/version-75b21b7-blue.svg
 [youtube-dl-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [youtube-dl-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [youtube-dl-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

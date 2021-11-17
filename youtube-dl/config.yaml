@@ -20,6 +20,8 @@ options:
   log_level: info
   options: []
 schema:
+  STDIN_mode:
+  - bool?
   URL:
   - str
   global_options:
@@ -30,4 +32,4 @@ schema:
 slug: youtube-dl
 startup: once
 url: https://github.com/einschmidt/addon-youtube-dl
-version: cf02e1e
+version: a685673

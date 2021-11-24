@@ -33,4 +33,4 @@ slug: youtube-dl
 startup: once
 stdin: true
 url: https://github.com/einschmidt/addon-youtube-dl
-version: 75b21b7
+version: 3ef734c

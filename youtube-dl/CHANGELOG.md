@@ -1,4 +1,10 @@
 # Changelog since v0.0.7
+- Merge pull request #86 from einschmidt:Bump-base-image-version-to-v10.2.3
+
+Bump base image version to v10.2.3 
+- Bump base image version to v10.2.3 
+- Prettified Code! 
+- Add further details to STDIN_mode docs 
 - Avoid mangling of backslashes 
 - Fix Shell issue 
 - Merge branch 'main' of https://github.com/einschmidt/addon-youtube-dl 

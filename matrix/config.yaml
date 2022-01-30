@@ -20,4 +20,4 @@ schema:
   server_name: str
 slug: matrix
 url: https://github.com/einschmidt/addon-matrix
-version: eca4438
+version: ec309de

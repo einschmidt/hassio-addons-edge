@@ -1,4 +1,13 @@
 # Changelog since v1.0.9
+- Shell fix 
+- Merge pull request #121 from einschmidt:Add-version-check-before-upgrade
+
+Do version check before upgrade 
+- Do version check before upgrade 
+- Merge pull request #120 from einschmidt:Change-fmt-call-order
+
+Fix Caddyfile formatting 
+- Change fmt order 
 - Merge pull request #118 from einschmidt:Change-repository-for-dependencies
 
 Change repository for dependencies 

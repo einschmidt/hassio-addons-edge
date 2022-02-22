@@ -1,5 +1,5 @@
-# Changelog since v0.0.4
-- Merge pull request #23 from einschmidt:Upgrade-dendrite-to-v0.6.1
+# Changelog since v0.0.7
+- Merge pull request #26 from einschmidt:Upgrade-Dendrite-to-v0.6.4
 
-Upgrade dendrite to v0.6.1 
-- Upgrade dendrite to v0.6.1 
+Upgrade Dendrite to v0.6.4 
+- Upgrade Dendrite to v0.6.4 

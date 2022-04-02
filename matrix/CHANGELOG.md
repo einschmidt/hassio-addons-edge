@@ -1,5 +1,9 @@
-# Changelog since v0.0.7
-- Merge pull request #26 from einschmidt:Upgrade-Dendrite-to-v0.6.4
+## What’s changed
 
-Upgrade Dendrite to v0.6.4 
-- Upgrade Dendrite to v0.6.4 
+## 🚀 Enhancements
+
+- Upgrade to Dendrite v0.7.0 @einschmidt (#28)
+
+## ⬆️ Dependency updates
+
+- Upgrades base image to v11.1.1 @einschmidt (#27)

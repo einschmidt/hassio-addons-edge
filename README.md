@@ -132,10 +132,10 @@ SOFTWARE.
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/1a72ff0
-[addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/1a72ff0/README.md
+[addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/v0.0.9
+[addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/v0.0.9/README.md
 [matrix-issue]: https://github.com/einschmidt/addon-matrix/issues
-[matrix-version-shield]: https://img.shields.io/badge/version-1a72ff0-blue.svg
+[matrix-version-shield]: https://img.shields.io/badge/version-v0.0.9-blue.svg
 [matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

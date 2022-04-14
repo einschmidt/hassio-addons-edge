@@ -41,4 +41,4 @@ schema:
 slug: caddy-2
 startup: services
 url: https://github.com/einschmidt/addon-caddy-2
-version: 9ecbf3c
+version: 7afcdbf

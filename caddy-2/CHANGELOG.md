@@ -1,4 +1,12 @@
 # Changelog since v1.1.0
+- Merge pull request #129 from einschmidt:Upgrade-caddy-to-v2.5.0
+
+Upgrade caddy to v2.5.0 
+- Upgrade caddy to v2.5.0 
+- Merge pull request #128 from einschmidt:Upgrade-base-image-to-v11.1.2
+
+Upgrade base image to v11.1.2 
+- Upgrade base image to v11.1.2 
 - Merge pull request #127 from einschmidt:Upgrade-caddy-to-v2.5.0-rc.1
 
 Upgrade caddy to v2.5.0-rc.1 

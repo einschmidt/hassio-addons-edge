@@ -1,17 +1,13 @@
-# Changelog since v0.2.3
-- Merge pull request #85 from einschmidt:Update-nginx-ssl_params.conf
+# Changelog since v0.2.4
+- Merge pull request #88 from einschmidt:Upgrade-yarr-to-v2.3
 
-Enable TLSv1.3 
-- Enable TLSv1.3 
-- Merge pull request #84 from einschmidt:Update-dependencies
+Upgrade yarr to v2.3 
+- Upgrade yarr to v2.3 
+- Merge pull request #87 from einschmidt:Upgrade-dependencies
 
-Update dependencies 
-- Update dependencies 
-- Merge pull request #83 from einschmidt:Bump-base-image-version-to-v11.0.1
+Upgrade dependencies 
+- Upgrade dependencies 
+- Merge pull request #86 from einschmidt:Upgrade-base-image-to-v11.1.2
 
-Bump base image version to v11.0.1 
-- Bump base image version to v11.0.1 
-- Merge pull request #81 from einschmidt:Update-CI-Workflows
-
-Update CI Workflows 
-- Update CI Workflows 
+Upgrade base image to v11.1.2 
+- Upgrade base image to v11.1.2 

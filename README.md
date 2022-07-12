@@ -123,10 +123,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-caddy-2]: https://github.com/einschmidt/addon-caddy-2/tree/5d4f0cc
-[addon-doc-caddy-2]: https://github.com/einschmidt/addon-caddy-2/blob/5d4f0cc/README.md
+[addon-caddy-2]: https://github.com/einschmidt/addon-caddy-2/tree/a038541
+[addon-doc-caddy-2]: https://github.com/einschmidt/addon-caddy-2/blob/a038541/README.md
 [caddy-2-issue]: https://github.com/einschmidt/addon-caddy-2/issues
-[caddy-2-version-shield]: https://img.shields.io/badge/version-5d4f0cc-blue.svg
+[caddy-2-version-shield]: https://img.shields.io/badge/version-a038541-blue.svg
 [caddy-2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [caddy-2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

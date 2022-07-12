@@ -1,10 +1,5 @@
-# Changelog since v1.1.2
-- Fix permissions 
-- Fix permissions 
-- Fix execution rights 
-- Fix rights 
-- Merge pull request #132 from einschmidt/Upgrade-base-image-to-v12.0.0
+# Changelog since v1.2.0
+- Merge pull request #133 from einschmidt:Upgrade-caddy-to-v2.5.2
 
-Upgrade base image to v12.0.0 
-- Upgrade base image to v12.0.0 
-- Update DOCS.md 
+Upgrade caddy to v2.5.2 
+- Upgrade caddy to v2.5.2 

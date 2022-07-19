@@ -1,5 +1,11 @@
-# Changelog since v1.2.0
-- Merge pull request #133 from einschmidt:Upgrade-caddy-to-v2.5.2
+# Changelog since v1.2.1
+- Merge pull request #134 from einschmidt:Upgrade-base-image-to-v12.2.0
 
-Upgrade caddy to v2.5.2 
-- Upgrade caddy to v2.5.2 
+Upgrade-base-image-to-v12.2.1 
+- Add Build_from argument 
+- Prettified Code! 
+- 12.2.1 
+- List base images 
+- Prettified Code! 
+- Add empty build.yaml 
+- Upgrade add-on base image to 12.2.0 

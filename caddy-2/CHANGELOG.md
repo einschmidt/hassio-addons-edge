@@ -1,9 +1,5 @@
-## What’s changed
+# Changelog since v1.2.6
+- Merge pull request #145 from einschmidt:Upgrade-base-image-to-v13.0.0
 
-## 🧰 Maintenance
-
-- Fix build error @einschmidt (#143)
-
-## ⬆️ Dependency updates
-
-- Upgrade base image to v12.2.7 @einschmidt (#142)
+Upgrade base image to v13.0.0 
+- Upgrade base image to v13.0.0 

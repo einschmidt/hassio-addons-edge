@@ -1,5 +1,5 @@
-# Changelog since v1.2.6
-- Merge pull request #145 from einschmidt:Upgrade-base-image-to-v13.0.0
+# Changelog since v1.2.7
+- Merge pull request #146 from einschmidt:migrate-old-style-base-scripts-s6-rc
 
-Upgrade base image to v13.0.0 
-- Upgrade base image to v13.0.0 
+Migrate old-style base scripts s6-rc 
+- Migrate old-style base scripts s6-rc 

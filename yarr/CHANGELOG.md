@@ -1,13 +1,13 @@
-# Changelog since v0.2.4
-- Merge pull request #88 from einschmidt:Upgrade-yarr-to-v2.3
+# Changelog since v0.2.5
+- Merge pull request #91 from einschmidt:Migrate-old-style-base-scripts-s6-rc
 
-Upgrade yarr to v2.3 
-- Upgrade yarr to v2.3 
-- Merge pull request #87 from einschmidt:Upgrade-dependencies
+migrate old style base scripts s6-rc 
+- migrate old style base scripts s6-rc 
+- Merge pull request #90 from einschmidt:Update-dependencies
 
-Upgrade dependencies 
-- Upgrade dependencies 
-- Merge pull request #86 from einschmidt:Upgrade-base-image-to-v11.1.2
+Upgrade Dependencies 
+- Upgrade Dependencies 
+- Merge pull request #89 from einschmidt:upgrade-base-image-to-v13.1.1
 
-Upgrade base image to v11.1.2 
-- Upgrade base image to v11.1.2 
+Upgrade base image to v13.1.1 
+- Upgrade base image to v13.1.1 

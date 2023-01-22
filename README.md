@@ -141,10 +141,10 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/fd989b8
-[addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/fd989b8/README.md
+[addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/57ce2b6
+[addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/57ce2b6/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues
-[yarr-version-shield]: https://img.shields.io/badge/version-fd989b8-blue.svg
+[yarr-version-shield]: https://img.shields.io/badge/version-57ce2b6-blue.svg
 [yarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [yarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [yarr-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

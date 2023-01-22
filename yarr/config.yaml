@@ -32,4 +32,4 @@ schema:
   ssl: bool
 slug: yarr
 url: https://github.com/einschmidt/addon-yarr
-version: fd989b8
+version: 57ce2b6

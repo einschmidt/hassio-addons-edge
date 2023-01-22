@@ -1,4 +1,5 @@
 # Changelog since v0.2.5
+- Fix permissions +x 
 - Fix permissions 
 - Fix permissions 
 - Merge pull request #92 from einschmidt:disable-init

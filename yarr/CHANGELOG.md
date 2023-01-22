@@ -1,4 +1,8 @@
 # Changelog since v0.2.5
+- Merge pull request #92 from einschmidt:disable-init
+
+Disable init config option 
+- Disable init config option 
 - Merge pull request #91 from einschmidt:Migrate-old-style-base-scripts-s6-rc
 
 migrate old style base scripts s6-rc 

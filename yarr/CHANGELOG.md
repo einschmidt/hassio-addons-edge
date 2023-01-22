@@ -1,4 +1,5 @@
 # Changelog since v0.2.5
+- Update script permission 
 - Fix permissions +x 
 - Fix permissions 
 - Fix permissions 

@@ -68,7 +68,7 @@ A second-generation Matrix homeserver
 ![Supports amd64 Architecture][freshrss-amd64-shield]
 ![Supports i386 Architecture][freshrss-i386-shield]
 
-freshrss description
+A free, self-hostable feed aggregator
 
 [:books: freshrss add-on documentation][addon-doc-freshrss]
 

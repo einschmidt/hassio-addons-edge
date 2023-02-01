@@ -59,6 +59,19 @@ A second-generation Matrix homeserver
 
 [:books: Matrix add-on documentation][addon-doc-matrix]
 
+### &#10003; [freshrss][addon-freshrss]
+
+![Latest Version][freshrss-version-shield]
+![Supports armhf Architecture][freshrss-armhf-shield]
+![Supports armv7 Architecture][freshrss-armv7-shield]
+![Supports aarch64 Architecture][freshrss-aarch64-shield]
+![Supports amd64 Architecture][freshrss-amd64-shield]
+![Supports i386 Architecture][freshrss-i386-shield]
+
+freshrss description
+
+[:books: freshrss add-on documentation][addon-doc-freshrss]
+
 ### &#10003; [yarr!][addon-yarr]
 
 ![Latest Version][yarr-version-shield]
@@ -141,6 +154,15 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/432879f
+[addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/432879f/README.md
+[freshrss-issue]: https://github.com/einschmidt/addon-freshrss/issues
+[freshrss-version-shield]: https://img.shields.io/badge/version-432879f-blue.svg
+[freshrss-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[freshrss-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[freshrss-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[freshrss-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[freshrss-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/2837bc8
 [addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/2837bc8/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues

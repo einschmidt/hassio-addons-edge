@@ -17,3 +17,7 @@ addons:
     repository: einschmidt/addon-matrix
     target: matrix
     image: ghcr.io/einschmidt/matrix/{arch}
+  freshrss:
+    repository: einschmidt/addon-freshrss
+    target: freshrss
+    image: ghcr.io/einschmidt/freshrss/{arch}

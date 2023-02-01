@@ -1,1 +1,1 @@
-- Add empty nginx servers folder
+- Merge branch 'main' of https://github.com/einschmidt/addon-freshrss

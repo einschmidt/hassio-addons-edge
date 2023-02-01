@@ -4,7 +4,7 @@ arch:
 - armv7
 - amd64
 - aarch64
-description: freshrss description
+description: A free, self-hostable feed aggregator
 image: ghcr.io/einschmidt/freshrss/{arch}
 init: false
 map:
@@ -27,5 +27,5 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   ssl: bool
 slug: freshrss
-url: https://github.com/einschmidt/addon-yarr
-version: 432879f
+url: https://github.com/einschmidt/addon-freshrss
+version: 931d469

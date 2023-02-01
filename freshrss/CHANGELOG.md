@@ -1,1 +1,1 @@
-- Add hadolint exception
+- Apply run permissions

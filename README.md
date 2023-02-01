@@ -154,10 +154,10 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/931d469
-[addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/931d469/README.md
+[addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/e4fd6ec
+[addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/e4fd6ec/README.md
 [freshrss-issue]: https://github.com/einschmidt/addon-freshrss/issues
-[freshrss-version-shield]: https://img.shields.io/badge/version-931d469-blue.svg
+[freshrss-version-shield]: https://img.shields.io/badge/version-e4fd6ec-blue.svg
 [freshrss-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [freshrss-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

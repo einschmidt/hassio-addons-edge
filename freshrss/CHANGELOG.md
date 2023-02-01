@@ -1,1 +1,1 @@
-- Apply run permissions
+- Add empty nginx servers folder

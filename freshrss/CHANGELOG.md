@@ -1,1 +1,1 @@
-- Update nginx location regex for API
+- Add nginx fix for PHP-FPM

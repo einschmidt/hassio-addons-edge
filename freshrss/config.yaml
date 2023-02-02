@@ -28,4 +28,4 @@ schema:
   ssl: bool
 slug: freshrss
 url: https://github.com/einschmidt/addon-freshrss
-version: 2b57f6a
+version: bf44f86

@@ -1,1 +1,1 @@
-- Merge branch 'main' of https://github.com/einschmidt/addon-freshrss
+- Update nginx location regex for API

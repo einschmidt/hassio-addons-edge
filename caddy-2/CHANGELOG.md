@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #153 from einschmidt:Remove-caddy-fmt-output
+
+Remove caddy_fmt output 
+- Remove caddy_fmt output 
 - Merge pull request #152 from einschmidt:Upgrade-caddy-to-v2.6.3
 
 Upgrade caddy to v2.6.3 

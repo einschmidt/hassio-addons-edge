@@ -46,6 +46,19 @@ Open source web and proxy server with automatic HTTPS
 
 [:books: Caddy 2 add-on documentation][addon-doc-caddy-2]
 
+### &#10003; [FreshRSS][addon-freshrss]
+
+![Latest Version][freshrss-version-shield]
+![Supports armhf Architecture][freshrss-armhf-shield]
+![Supports armv7 Architecture][freshrss-armv7-shield]
+![Supports aarch64 Architecture][freshrss-aarch64-shield]
+![Supports amd64 Architecture][freshrss-amd64-shield]
+![Supports i386 Architecture][freshrss-i386-shield]
+
+A free, self-hostable feed aggregator
+
+[:books: FreshRSS add-on documentation][addon-doc-freshrss]
+
 ### &#10003; [Matrix][addon-matrix]
 
 ![Latest Version][matrix-version-shield]
@@ -58,19 +71,6 @@ Open source web and proxy server with automatic HTTPS
 A second-generation Matrix homeserver
 
 [:books: Matrix add-on documentation][addon-doc-matrix]
-
-### &#10003; [freshrss][addon-freshrss]
-
-![Latest Version][freshrss-version-shield]
-![Supports armhf Architecture][freshrss-armhf-shield]
-![Supports armv7 Architecture][freshrss-armv7-shield]
-![Supports aarch64 Architecture][freshrss-aarch64-shield]
-![Supports amd64 Architecture][freshrss-amd64-shield]
-![Supports i386 Architecture][freshrss-i386-shield]
-
-A free, self-hostable feed aggregator
-
-[:books: freshrss add-on documentation][addon-doc-freshrss]
 
 ### &#10003; [yarr!][addon-yarr]
 
@@ -145,15 +145,6 @@ SOFTWARE.
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/v0.0.9
-[addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/v0.0.9/README.md
-[matrix-issue]: https://github.com/einschmidt/addon-matrix/issues
-[matrix-version-shield]: https://img.shields.io/badge/version-v0.0.9-blue.svg
-[matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/bf44f86
 [addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/bf44f86/README.md
 [freshrss-issue]: https://github.com/einschmidt/addon-freshrss/issues
@@ -163,6 +154,15 @@ SOFTWARE.
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [freshrss-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [freshrss-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/v0.0.9
+[addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/v0.0.9/README.md
+[matrix-issue]: https://github.com/einschmidt/addon-matrix/issues
+[matrix-version-shield]: https://img.shields.io/badge/version-v0.0.9-blue.svg
+[matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/2837bc8
 [addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/2837bc8/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues

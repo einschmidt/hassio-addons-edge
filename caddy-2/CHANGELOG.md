@@ -1,4 +1,14 @@
 # Changelog since v1.4.1
+- Merge pull request #174 from einschmidt:caddy-v2.7.2
+
+Update Caddy to v2.7.2 
+- Update Caddy to v2.7.2 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.7 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.6 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.5 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.3 
+- ⬆️ Update alpine_3_18/nss-tools to v3.91-r0 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 
 - Merge pull request #167 from einschmidt:v2.7.0-beta
 
 Update Caddy Version to v2.7.0-beta.1 

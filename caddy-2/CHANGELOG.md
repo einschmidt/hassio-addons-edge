@@ -1,6 +1,6 @@
-# Changelog since v1.5.0
-- Merge pull request #177 from einschmidt:update-caddy-v2.7.3
+# Changelog since v1.5.1
+- Merge pull request #179 from einschmidt:update-to-caddy-v2.7.4
 
-Update caddy to v2.7.3 
-- Update caddy to v2.7.3 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.8 
+Upgrade caddy to v2.7.4 
+- Upgrade caddy to v2.7.4 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.0 

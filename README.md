@@ -163,10 +163,10 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/48f822f
-[addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/48f822f/README.md
+[addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/88dd4cf
+[addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/88dd4cf/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues
-[yarr-version-shield]: https://img.shields.io/badge/version-48f822f-blue.svg
+[yarr-version-shield]: https://img.shields.io/badge/version-88dd4cf-blue.svg
 [yarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [yarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [yarr-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- Adapt code for php82 
 - Find php folder dynamically 
 - Remove php-version 
 - Add php-fpm 

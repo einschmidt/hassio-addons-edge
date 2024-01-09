@@ -145,10 +145,10 @@ SOFTWARE.
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/be21748
-[addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/be21748/README.md
+[addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/6f6e255
+[addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/6f6e255/README.md
 [freshrss-issue]: https://github.com/einschmidt/addon-freshrss/issues
-[freshrss-version-shield]: https://img.shields.io/badge/version-be21748-blue.svg
+[freshrss-version-shield]: https://img.shields.io/badge/version-6f6e255-blue.svg
 [freshrss-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [freshrss-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

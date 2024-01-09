@@ -1,4 +1,6 @@
 # Changelog since v1.5.4
+- Use bash as default shell 
+- Improve Variable usage 
 - Add Shell to avoid DL4006 
 - Move version change into download URL 
 - Prettified Code! 

@@ -1,4 +1,8 @@
 # Changelog since v0.2.2
+- Merge pull request #73 from einschmidt:php-fixes
+
+Adapt pathes and commands for php-fpm83 
+- Adapt pathes and commands for php-fpm83 
 - Merge pull request #70 from einschmidt/renovate/freshrss-freshrss-1.x
 
 ⬆️ Update FreshRSS/FreshRSS to v1.24.0 

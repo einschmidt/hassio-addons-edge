@@ -1,23 +1,25 @@
-# Changelog since v1.5.8
-- Merge pull request #229 from einschmidt:enalbe-addon-config-folder
+# Changelog since v2.0.0
+- Merge pull request #241 from einschmidt/renovate/caddyserver-caddy-2.x
 
-Refactor Configuration Management: Switch from Access-Based to Add-On Configuration for Caddy 2 
-- Update About descriptions 
-- Update Caddy 2 description 
-- Small fixes in DOCS 
-- Rewrite and extend the documentation 
-- Merge pull request #228 from einschmidt/main
+⬆️ Update caddyserver/caddy to v2.9.0 
+- ⬆️ Update caddyserver/caddy to v2.9.0 
+- Merge pull request #240 from einschmidt/renovate/alpine_3_21-nss-tools-3.x
 
-Update base image 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.1 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.0 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.1 
-- Enable addon config folder 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.0 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.2 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.1 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.0 
-- ⬆️ Update alpine_3_20/nss-tools to v3.101-r0 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.0.1 
-- Update lock.yaml 
+⬆️ Update alpine_3_21/nss-tools to v3.107-r0 
+- ⬆️ Update alpine_3_21/nss-tools to v3.107-r0 
+- Change renovate config for alpine v3.21 
+- Merge pull request #239 from einschmidt/renovate/major-add-on-base-image
+
+⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.6 (#237)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.5 (#236)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_20/nss-tools to v3.105-r0 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.4 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.3 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.2 
+- ⬆️ Update alpine_3_20/nss-tools to v3.104-r0 

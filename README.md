@@ -72,6 +72,19 @@ A second-generation Matrix homeserver
 
 [:books: Matrix add-on documentation][addon-doc-matrix]
 
+### &#10003; [Pocket ID][addon-pocket-id]
+
+![Latest Version][pocket-id-version-shield]
+![Supports armhf Architecture][pocket-id-armhf-shield]
+![Supports armv7 Architecture][pocket-id-armv7-shield]
+![Supports aarch64 Architecture][pocket-id-aarch64-shield]
+![Supports amd64 Architecture][pocket-id-amd64-shield]
+![Supports i386 Architecture][pocket-id-i386-shield]
+
+Simple OIDC provider for passkey authentication
+
+[:books: Pocket ID add-on documentation][addon-doc-pocket-id]
+
 ### &#10003; [yarr!][addon-yarr]
 
 ![Latest Version][yarr-version-shield]
@@ -163,6 +176,15 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-pocket-id]: https://github.com/einschmidt/addon-pocket-id/tree/2128073
+[addon-doc-pocket-id]: https://github.com/einschmidt/addon-pocket-id/blob/2128073/README.md
+[pocket-id-issue]: https://github.com/einschmidt/addon-pocket-id/issues
+[pocket-id-version-shield]: https://img.shields.io/badge/version-2128073-blue.svg
+[pocket-id-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[pocket-id-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[pocket-id-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[pocket-id-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[pocket-id-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/75fa94b
 [addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/75fa94b/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues

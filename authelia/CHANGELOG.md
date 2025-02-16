@@ -1,1 +1,1 @@
-- Remove unsupported architectures
+- Improve init-authelia

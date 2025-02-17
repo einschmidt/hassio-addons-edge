@@ -1,1 +1,1 @@
-- Remove pw generation confirmation
+- Generate and store secrets

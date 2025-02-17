@@ -1,1 +1,1 @@
-- Move ENV variables to Dockerfile
+- Store secrets in data

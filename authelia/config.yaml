@@ -1,7 +1,7 @@
 name: Authelia
-version: c3ced90
+version: 75a32b3
 slug: authelia
-description: Authelia - Authentication and Authorization Server
+description: Authentication and Authorization Server
 url: https://github.com/einschmidt/addon-authelia
 arch:
 - amd64

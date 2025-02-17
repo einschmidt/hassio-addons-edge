@@ -1,1 +1,1 @@
-- Remove chmod command
+- Move ENV variables to Dockerfile

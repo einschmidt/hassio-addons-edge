@@ -1,1 +1,1 @@
-- Generate and store secrets
+- Remove chmod command

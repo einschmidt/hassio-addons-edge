@@ -1,5 +1,5 @@
 name: Authelia
-version: 190f157
+version: 8b7bd20
 slug: authelia
 description: Authelia - Authentication and Authorization Server
 url: https://github.com/einschmidt/addon-authelia
@@ -14,7 +14,9 @@ ports_description:
 map:
 - addon_config:rw
 options:
+  domain: example.com
   log_level: info
 schema:
+  domain: str
   log_level: list(debug|info|warn|error)
 image: ghcr.io/einschmidt/authelia/{arch}

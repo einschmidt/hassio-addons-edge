@@ -42,7 +42,7 @@ https://github.com/einschmidt/hassio-addons-edge
 ![Supports amd64 Architecture][authelia-amd64-shield]
 ![Supports i386 Architecture][authelia-i386-shield]
 
-Authelia - Authentication and Authorization Server
+Authentication and Authorization Server
 
 [:books: Authelia add-on documentation][addon-doc-authelia]
 

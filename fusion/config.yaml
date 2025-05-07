@@ -1,0 +1,18 @@
+name: Fusion
+version: 21b8c84
+slug: fusion
+description: Lightweight RSS feed aggregator and reader
+url: https://github.com/einschmidt/addon-fusion
+arch:
+- amd64
+- aarch64
+ports:
+  7080/tcp: 7080
+ports_description:
+  7080/tcp: Web interface
+init: false
+options:
+  log_level: info
+schema:
+  log_level: list(debug|info|warn|error)
+image: ghcr.io/einschmidt/fusion/{arch}

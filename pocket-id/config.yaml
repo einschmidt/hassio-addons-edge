@@ -1,5 +1,5 @@
 name: Pocket ID
-version: 0.2.0
+version: d73c4c4
 slug: pocket-id
 description: Simple OIDC provider for passkey authentication
 url: https://github.com/einschmidt/addon-pocket-id
@@ -7,17 +7,17 @@ arch:
 - amd64
 - aarch64
 options:
-  PUBLIC_APP_URL: http://localhost
+  APP_URL: http://localhost
   TRUST_PROXY: false
   MAXMIND_LICENSE_KEY: null
 schema:
-  PUBLIC_APP_URL: str
+  APP_URL: str
   TRUST_PROXY: bool
   MAXMIND_LICENSE_KEY: str?
 ports:
-  80/tcp: 7080
+  1411/tcp: 7080
 map:
 - type: data
-  path: /app/backend/data
+  path: /app/data
 init: false
 image: ghcr.io/einschmidt/pocket-id/{arch}

@@ -1,9 +1,7 @@
-# Changelog since v0.2.16
-- Adapth path and remove deprecated script call 
-- Adapt pathes for v1.0 
+# Changelog since v1.1.15
+- Remove unused build architectures from build.yaml 
 - Prettified Code! 
-- Merge pull request #38 from einschmidt/renovate/ghcr.io-pocket-id-pocket-id-1.x
+- Merge pull request #66 from einschmidt:add-app-log-level
 
-⬆️ Update ghcr.io/pocket-id/pocket-id Docker tag to v1 
-- Config migration for v1.x 
-- ⬆️ Update ghcr.io/pocket-id/pocket-id Docker tag to v1 
+Set log level for pocket-id inside container 
+- Set log level for pocket-id inside container 

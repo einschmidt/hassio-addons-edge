@@ -22,7 +22,6 @@ Example add-on configuration:
 ```yaml
 APP_URL: https://id.domain.com
 TRUST_PROXY: true
-MAXMIND_LICENSE_KEY: ""
 ```
 
 ### Option: `APP_URL`

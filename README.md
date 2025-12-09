@@ -85,6 +85,19 @@ Lightweight RSS feed aggregator and reader
 
 [:books: Fusion add-on documentation][addon-doc-fusion]
 
+### &#10003; [LLDAP][addon-lldap]
+
+![Latest Version][lldap-version-shield]
+![Supports armhf Architecture][lldap-armhf-shield]
+![Supports armv7 Architecture][lldap-armv7-shield]
+![Supports aarch64 Architecture][lldap-aarch64-shield]
+![Supports amd64 Architecture][lldap-amd64-shield]
+![Supports i386 Architecture][lldap-i386-shield]
+
+Lightweight Authentication Server
+
+[:books: LLDAP add-on documentation][addon-doc-lldap]
+
 ### &#10003; [Matrix][addon-matrix]
 
 ![Latest Version][matrix-version-shield]
@@ -211,6 +224,15 @@ SOFTWARE.
 [fusion-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [fusion-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [fusion-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-lldap]: https://github.com/einschmidt/addon-lldap/tree/5bca68f
+[addon-doc-lldap]: https://github.com/einschmidt/addon-lldap/blob/5bca68f/README.md
+[lldap-issue]: https://github.com/einschmidt/addon-lldap/issues
+[lldap-version-shield]: https://img.shields.io/badge/version-5bca68f-blue.svg
+[lldap-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[lldap-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[lldap-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[lldap-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[lldap-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/v0.0.9
 [addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/v0.0.9/README.md
 [matrix-issue]: https://github.com/einschmidt/addon-matrix/issues

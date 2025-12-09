@@ -36,4 +36,4 @@ addons:
   lldap:
     repository: einschmidt/addon-lldap
     target: lldap
-    image: ghcr.io/einschmidt/addon-lldap/{arch}
+    image: ghcr.io/einschmidt/lldap/{arch}

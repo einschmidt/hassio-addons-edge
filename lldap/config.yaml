@@ -1,5 +1,5 @@
 name: LLDAP
-version: 5bca68f
+version: 95421d7
 slug: lldap
 description: Lightweight Authentication Server
 url: https://github.com/einschmidt/addon-lldap

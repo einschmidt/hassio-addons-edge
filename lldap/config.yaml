@@ -23,4 +23,4 @@ schema:
   log_level: list(debug|info|warn|error)
   domain: str
   ldap_user_pass: password
-image: ghcr.io/einschmidt/addon-lldap/{arch}
+image: ghcr.io/einschmidt/lldap/{arch}

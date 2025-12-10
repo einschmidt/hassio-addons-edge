@@ -203,8 +203,8 @@ SOFTWARE.
 [caddy-2-version-shield]: https://img.shields.io/badge/version-v2.0.3-blue.svg
 [caddy-2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [caddy-2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-freshrss]: https://github.com/einschmidt/addon-freshrss/tree/9c2fbcd
 [addon-doc-freshrss]: https://github.com/einschmidt/addon-freshrss/blob/9c2fbcd/README.md

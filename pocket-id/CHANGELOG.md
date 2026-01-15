@@ -1,7 +1,5 @@
-# Changelog since v1.1.15
-- Remove unused build architectures from build.yaml 
-- Prettified Code! 
-- Merge pull request #66 from einschmidt:add-app-log-level
+## What’s changed
 
-Set log level for pocket-id inside container 
-- Set log level for pocket-id inside container 
+## ⬆️ Dependency updates
+
+- ⬆️ Update pocket-id/pocket-id to v2.2 @[renovate[bot]](https://github.com/apps/renovate) (#82)

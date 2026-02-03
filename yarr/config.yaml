@@ -1,12 +1,10 @@
 name: yarr!
-version: 196b0fb
+version: c7722e5
 slug: yarr
 description: Yet another rss reader
-url: https://github.com/einschmidt/addon-yarr
+url: https://github.com/einschmidt/app-yarr
 panel_icon: mdi:rss-box
 arch:
-- armhf
-- armv7
 - amd64
 - aarch64
 ports:
@@ -14,6 +12,8 @@ ports:
 ports_description:
   80/tcp: Web interface
 init: false
+ingress: true
+ingress_stream: true
 map:
 - share:rw
 - ssl
@@ -33,4 +33,4 @@ schema:
   certfile: str
   keyfile: str
   db_path: str?
-image: ghcr.io/einschmidt/yarr/{arch}
+image: ghcr.io/einschmidt/yarr

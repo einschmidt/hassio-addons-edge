@@ -8,7 +8,7 @@ addons:
   yarr:
     repository: einschmidt/app-yarr
     target: yarr
-    image: ghcr.io/einschmidt/yarr/{arch}
+    image: ghcr.io/einschmidt/yarr
   youtube-dl:
     repository: einschmidt/addon-youtube-dl
     target: youtube-dl

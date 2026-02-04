@@ -215,9 +215,9 @@ SOFTWARE.
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [freshrss-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [freshrss-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-fusion]: https://github.com/einschmidt/addon-fusion/tree/a1f5a23
-[addon-doc-fusion]: https://github.com/einschmidt/addon-fusion/blob/a1f5a23/README.md
-[fusion-issue]: https://github.com/einschmidt/addon-fusion/issues
+[addon-fusion]: https://github.com/einschmidt/app-fusion/tree/a1f5a23
+[addon-doc-fusion]: https://github.com/einschmidt/app-fusion/blob/a1f5a23/README.md
+[fusion-issue]: https://github.com/einschmidt/app-fusion/issues
 [fusion-version-shield]: https://img.shields.io/badge/version-a1f5a23-blue.svg
 [fusion-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [fusion-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

@@ -188,9 +188,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-authelia]: https://github.com/einschmidt/addon-authelia/tree/e18c1b2
-[addon-doc-authelia]: https://github.com/einschmidt/addon-authelia/blob/e18c1b2/README.md
-[authelia-issue]: https://github.com/einschmidt/addon-authelia/issues
+[addon-authelia]: https://github.com/einschmidt/app-authelia/tree/e18c1b2
+[addon-doc-authelia]: https://github.com/einschmidt/app-authelia/blob/e18c1b2/README.md
+[authelia-issue]: https://github.com/einschmidt/app-authelia/issues
 [authelia-version-shield]: https://img.shields.io/badge/version-e18c1b2-blue.svg
 [authelia-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [authelia-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Authelia
+# Home Assistant App: Authelia
 
 The Single Sign-On Multi-Factor portal for web apps
 
@@ -8,8 +8,8 @@ Authelia is an open-source authentication and authorization server providing two
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -18,10 +18,10 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/einschmidt/hassio-addons>
 

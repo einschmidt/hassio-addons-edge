@@ -1,1 +1,2 @@
-- Make password optional and configurable
+# Changelog since v0.1.1
+- Refactor labels and managerFilePatterns in renovate.json 

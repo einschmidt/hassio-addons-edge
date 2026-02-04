@@ -1,8 +1,8 @@
 name: Fusion
-version: a1f5a23
+version: 1578efb
 slug: fusion
 description: Lightweight RSS feed aggregator and reader
-url: https://github.com/einschmidt/addon-fusion
+url: https://github.com/einschmidt/app-fusion
 arch:
 - amd64
 - aarch64
@@ -17,4 +17,4 @@ options:
 schema:
   password: password?
   log_level: list(debug|info|warn|error)
-image: ghcr.io/einschmidt/fusion/{arch}
+image: ghcr.io/einschmidt/fusion

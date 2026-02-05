@@ -1,15 +1,19 @@
-# Changelog since v0.3.2
-- Merge pull request #121 from einschmidt/map-extensions
+# Changelog since v1.0.1
+- Merge pull request #159 from einschmidt/renovate/alpine_3_23-git-2.x
 
-Allow thirdparty extensions via addon_config 
-- Merge branch `main` into map-extensions 
-- Extend Docu 
-- ⬆️ Update Add-on base image to v17.2.2 (#122)
+⬆️ Update alpine_3_23/git to v2.52.0-r0 
+- Merge pull request #158 from einschmidt/renovate/alpine_3_23-nginx-1.x
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Configure new extensions folder 
-- Create extensions folder and copy original files at startup 
-- Add addon_config access 
-- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#119)
+⬆️ Update alpine_3_23/nginx to v1.28.0-r8 
+- ⬆️ Update alpine_3_23/git to v2.52.0-r0 
+- ⬆️ Update alpine_3_23/nginx to v1.28.0-r8 
+- Adapt renovate for base image version 
+- Merge pull request #157 from einschmidt:2026
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Update strings and adapt workflows for upstream actions 
+- Update year 
+- Update strings and adapt workflows for upstream actions 
+- Merge pull request #156 from einschmidt/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v20 (major) 
+- ⬆️ Update Add-on base image to v20 

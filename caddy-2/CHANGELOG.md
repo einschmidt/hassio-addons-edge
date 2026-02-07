@@ -1,4 +1,18 @@
 # Changelog since v2.0.5
+- Prettify renovate.json 
+- Merge pull request #279 from einschmidt:2026-01
+
+Update strings and adapt workflows for upstream actions 
+- Update strings and adapt workflows for upstream actions 
+- Merge pull request #278 from einschmidt/renovate/alpine_3_23-nss-tools-3.x
+
+⬆️ Update alpine_3_23/nss-tools to v3.118.1-r0 
+- ⬆️ Update alpine_3_23/nss-tools to v3.118.1-r0 
+- Merge pull request #277 from einschmidt/renovate/major-add-on-base-image
+
+⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 
+- Match dependency with base image 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 
 - Update deploy.yaml to comment out branches line
 
 Commented out the branches line in workflow_run section. 

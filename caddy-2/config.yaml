@@ -1,8 +1,8 @@
 name: Caddy 2
-version: 41d3311
+version: 6093d6f
 slug: caddy-2
 description: Open source web and proxy server with automatic HTTPS
-url: https://github.com/einschmidt/addon-caddy-2
+url: https://github.com/einschmidt/app-caddy-2
 arch:
 - amd64
 - aarch64
@@ -43,4 +43,4 @@ environment:
 init: false
 breaking_versions:
 - 2.0.0
-image: ghcr.io/einschmidt/caddy-2/{arch}
+image: ghcr.io/einschmidt/caddy-2

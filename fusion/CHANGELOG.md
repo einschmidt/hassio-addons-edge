@@ -1,5 +1,5 @@
-# Changelog since v0.1.2
-- Merge pull request #18 from einschmidt:fusion-release
+# Changelog since v0.2.0
+- Merge pull request #19 from einschmidt:fusion-fever
 
-Upgrade to Fusion v1.0.0 
-- Upgrade to Fusion v1.0.0 
+Upgrade Fusion to v1.1.0 
+- Upgrade Fusion to v1.1.0 

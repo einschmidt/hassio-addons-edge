@@ -1,4 +1,8 @@
 # Changelog since v2.0.5
+- Merge pull request #280 from einschmidt/renovate/caddyserver-caddy-2.x
+
+⬆️ Update caddyserver/caddy to v2.11.1 
+- ⬆️ Update caddyserver/caddy to v2.11.1 
 - Prettify renovate.json 
 - Merge pull request #279 from einschmidt:2026-01
 

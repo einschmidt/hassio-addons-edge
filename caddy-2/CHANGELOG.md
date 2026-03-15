@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v3.0.1
+- Merge pull request #282 from einschmidt:list-modules
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update caddyserver/caddy to v2.11.2 @[renovate[bot]](https://github.com/apps/renovate) ([#281](https://github.com/einschmidt/app-caddy-2/pull/281))
+Add output of modules in custom caddy binaries during app startup 
+- Add output of modules in custom caddy binaries during app startup 

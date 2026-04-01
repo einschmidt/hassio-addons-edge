@@ -1,5 +1,4 @@
-# Changelog since v1.3.2
-- Merge pull request #90 from einschmidt/renovate/pocket-id-pocket-id-2.x
+# Changelog since v1.3.3
+- ⬆️ Update App base image to v20.0.2 (#91)
 
-⬆️ Update pocket-id/pocket-id to v2.5.0 
-- ⬆️ Update pocket-id/pocket-id to v2.5.0 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

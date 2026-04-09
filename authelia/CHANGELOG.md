@@ -1,4 +1,6 @@
-# Changelog since v0.1.24
-- ⬆️ Update App base image to v9.3.0 (#40)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+## ⬆️ Dependency updates
+
+- ⬆️ Update App base image to v9.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#40](https://github.com/einschmidt/app-authelia/pull/40))
+- ⬆️ Update authelia/authelia to v4.39.17 @[renovate[bot]](https://github.com/apps/renovate) ([#41](https://github.com/einschmidt/app-authelia/pull/41))

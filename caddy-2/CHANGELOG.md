@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- Add hint about alternative ways to build custom binaries to DOCS 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#287)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

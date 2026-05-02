@@ -1,14 +1,9 @@
-# Changelog since v0.1.1
-- Merge pull request #5 from einschmidt/renovate/major-add-on-base-image
+## What’s changed
 
-⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 
-- match depNameTemplate with base image 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 
-- Merge pull request #6 from einschmidt:2026
+## ⬆️ Dependency updates
 
-Rename strings and update workflows for upstream actions 
-- Rename strings and update workflows for upstream actions 
-- Merge pull request #4 from einschmidt/renovate/migrate-config
-
-⬆️: migrate Renovate config 
-- ⬆️: migrate config .github/renovate.json 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#7](https://github.com/einschmidt/app-lldap/pull/7))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#8](https://github.com/einschmidt/app-lldap/pull/8))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 @[renovate[bot]](https://github.com/apps/renovate) ([#9](https://github.com/einschmidt/app-lldap/pull/9))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#10](https://github.com/einschmidt/app-lldap/pull/10))
+- ⬆️ Update lldap/lldap to v0.6.3 @[renovate[bot]](https://github.com/apps/renovate) ([#11](https://github.com/einschmidt/app-lldap/pull/11))

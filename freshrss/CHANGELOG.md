@@ -1,4 +1,5 @@
-# Changelog since v1.0.4
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#173)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+## ⬆️ Dependency updates
+
+- ⬆️ Update FreshRSS/FreshRSS to v1.29.1 @[renovate[bot]](https://github.com/apps/renovate) ([#174](https://github.com/einschmidt/app-freshrss/pull/174))

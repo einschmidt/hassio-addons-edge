@@ -1,22 +1,9 @@
-# Changelog since v3.1.0
-- Merge pull request #290 from einschmidt/renovate/caddyserver-caddy-2.x
+# Changelog since v3.1.1
+- Merge pull request #291 from einschmidt/renovate/caddyserver-caddy-2.x
 
-⬆️ Update caddyserver/caddy to v2.11.3 
-- ⬆️ Update caddyserver/caddy to v2.11.3 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#289)
+⬆️ Update caddyserver/caddy to v2.11.4 
+- ⬆️ Update caddyserver/caddy to v2.11.4 
+- Merge pull request #292 from einschmidt/renovate/alpine_3_23-nss-tools-3.x
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#288)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Add hint about alternative ways to build custom binaries to DOCS 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#287)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.3 (#286)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#285)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Adapt workflows to upstream changes 
+⬆️ Update alpine_3_23/nss-tools to v3.123.1-r0 
+- ⬆️ Update alpine_3_23/nss-tools to v3.123.1-r0 

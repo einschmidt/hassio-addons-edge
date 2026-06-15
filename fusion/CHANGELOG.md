@@ -1,4 +1,9 @@
 # Changelog since v0.2.1
+- Merge pull request #27 from einschmidt/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v21 
+- Align renovate with upstream os 
+- ⬆️ Update Add-on base image to v21 
 - Pin workflow versions 
 - ⬆️ Update Add-on base image to v20.2.0 (#26)
 

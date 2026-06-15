@@ -1,4 +1,5 @@
 # Changelog since v0.1.3
+- Pin workflow versions 
 - Merge pull request #14 from einschmidt/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v21 

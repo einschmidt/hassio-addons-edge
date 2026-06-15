@@ -1,9 +1,20 @@
-# Changelog since v0.2.0
-- Merge pull request #20 from einschmidt/renovate/0x2e-fusion-1.x
+# Changelog since v0.2.1
+- Pin workflow versions 
+- ⬆️ Update Add-on base image to v20.2.0 (#26)
 
-⬆️ Update 0x2E/fusion to v1.1.1 
-- ⬆️ Update 0x2E/fusion to v1.1.1 
-- Merge pull request #19 from einschmidt:fusion-fever
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#25)
 
-Upgrade Fusion to v1.1.0 
-- Upgrade Fusion to v1.1.0 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#24)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#23)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.3 (#22)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#21)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

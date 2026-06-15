@@ -1,4 +1,5 @@
 # Changelog since v1.0.3
+- Add release drafter 
 - Fix Lint Errors 
 - Merge pull request #265 from einschmidt:pin-versions
 

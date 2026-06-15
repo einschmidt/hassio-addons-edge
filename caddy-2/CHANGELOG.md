@@ -1,6 +1,12 @@
-## What’s changed
+# Changelog since v3.1.2
+- Change min-spaces-from-content from 2 to 1 
+- ⬆️ Update alpine_3_24/nss-tools to v3.124-r0 (#296)
 
-## ⬆️ Dependency updates
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #295 from einschmidt/pin-versions 
+- Pin Workflows 
+- Merge pull request #294 from einschmidt/renovate/major-app-base-image
 
-- ⬆️ Update alpine_3_23/nss-tools to v3.123.1-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#292](https://github.com/einschmidt/app-caddy-2/pull/292))
-- ⬆️ Update caddyserver/caddy to v2.11.4 @[renovate[bot]](https://github.com/apps/renovate) ([#291](https://github.com/einschmidt/app-caddy-2/pull/291))
+⬆️ Update App base image to v21 
+- Align renovate with upstream image 
+- ⬆️ Update App base image to v21 

@@ -242,10 +242,10 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-pocket-id]: https://github.com/einschmidt/app-pocket-id/tree/a7ce23b
-[addon-doc-pocket-id]: https://github.com/einschmidt/app-pocket-id/blob/a7ce23b/README.md
+[addon-pocket-id]: https://github.com/einschmidt/app-pocket-id/tree/v1.3.8
+[addon-doc-pocket-id]: https://github.com/einschmidt/app-pocket-id/blob/v1.3.8/README.md
 [pocket-id-issue]: https://github.com/einschmidt/app-pocket-id/issues
-[pocket-id-version-shield]: https://img.shields.io/badge/version-a7ce23b-blue.svg
+[pocket-id-version-shield]: https://img.shields.io/badge/version-v1.3.8-blue.svg
 [pocket-id-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pocket-id-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pocket-id-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

@@ -1,16 +1,11 @@
-# Changelog since v1.3.7
-- Change min-spaces-from-content from 2 to 1 
-- Update labels.yaml 
-- Merge pull request #102 from einschmidt:pin-workflows
+## What’s changed
 
-Pin workflows 
-- Pin workflows 
-- Merge pull request #101 from einschmidt/renovate/major-app-base-image
+## 🧰 Maintenance
 
-⬆️ Update App base image to v21 
-- Merge branch 'main' into renovate/major-app-base-image 
-- Merge pull request #100 from einschmidt/renovate/app-base-image
+- Pin workflows @einschmidt ([#102](https://github.com/einschmidt/app-pocket-id/pull/102))
 
-⬆️ Update App base image to v20.2.0 
-- ⬆️ Update App base image to v21 
-- ⬆️ Update App base image to v20.2.0 
+## ⬆️ Dependency updates
+
+- ⬆️ Update App base image to v20.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#100](https://github.com/einschmidt/app-pocket-id/pull/100))
+- ⬆️ Update App base image to v21 @[renovate[bot]](https://github.com/apps/renovate) ([#101](https://github.com/einschmidt/app-pocket-id/pull/101))
+- ⬆️ Update pocket-id/pocket-id to v2.9.0 @[renovate[bot]](https://github.com/apps/renovate) ([#103](https://github.com/einschmidt/app-pocket-id/pull/103))

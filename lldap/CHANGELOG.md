@@ -1,4 +1,8 @@
 # Changelog since v0.1.3
+- Merge pull request #15 from einschmidt:adopt-workflows
+
+Adopt workflows 
+- Adopt workflows 
 - Pin workflow versions 
 - Merge pull request #14 from einschmidt/renovate/major-add-on-base-image
 

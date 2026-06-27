@@ -1,5 +1,6 @@
-# Changelog since v0.1.27
-- Merge pull request #44 from einschmidt/renovate/authelia-authelia-4.x
+# Changelog since v0.1.28
+- Merge pull request #45 from einschmidt:adopt-workflows
 
-⬆️ Update authelia/authelia to v4.39.20 
-- ⬆️ Update authelia/authelia to v4.39.20 
+Adopt workflows 
+- Adopt workflows 
+- Pin workflow versions 

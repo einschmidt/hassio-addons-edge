@@ -1,4 +1,8 @@
 # Changelog since v3.1.2
+- Merge pull request #297 from einschmidt:adopt-workflows
+
+Adopt workflows 
+- Adopt workflows 
 - Change min-spaces-from-content from 2 to 1 
 - ⬆️ Update alpine_3_24/nss-tools to v3.124-r0 (#296)
 

@@ -1,4 +1,8 @@
 # Changelog since v0.2.1
+- Merge pull request #28 from einschmidt:adopt-workflows
+
+Adopt workflows 
+- Adopt workflows 
 - Merge pull request #27 from einschmidt/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v21 

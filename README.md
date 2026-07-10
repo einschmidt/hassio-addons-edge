@@ -98,19 +98,6 @@ Lightweight Authentication Server
 
 [:books: LLDAP add-on documentation][addon-doc-lldap]
 
-### &#10003; [Matrix][addon-matrix]
-
-![Latest Version][matrix-version-shield]
-![Supports armhf Architecture][matrix-armhf-shield]
-![Supports armv7 Architecture][matrix-armv7-shield]
-![Supports aarch64 Architecture][matrix-aarch64-shield]
-![Supports amd64 Architecture][matrix-amd64-shield]
-![Supports i386 Architecture][matrix-i386-shield]
-
-A second-generation Matrix homeserver
-
-[:books: Matrix add-on documentation][addon-doc-matrix]
-
 ### &#10003; [Pocket ID][addon-pocket-id]
 
 ![Latest Version][pocket-id-version-shield]
@@ -136,19 +123,6 @@ Simple OIDC provider for passkey authentication
 Yet another rss reader
 
 [:books: yarr! add-on documentation][addon-doc-yarr]
-
-### &#10003; [youtube-dl][addon-youtube-dl]
-
-![Latest Version][youtube-dl-version-shield]
-![Supports armhf Architecture][youtube-dl-armhf-shield]
-![Supports armv7 Architecture][youtube-dl-armv7-shield]
-![Supports aarch64 Architecture][youtube-dl-aarch64-shield]
-![Supports amd64 Architecture][youtube-dl-amd64-shield]
-![Supports i386 Architecture][youtube-dl-i386-shield]
-
-Download videos from youtube.com and a few more sites
-
-[:books: youtube-dl add-on documentation][addon-doc-youtube-dl]
 
 ## Releases
 
@@ -233,15 +207,6 @@ SOFTWARE.
 [lldap-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [lldap-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [lldap-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-matrix]: https://github.com/einschmidt/addon-matrix/tree/v0.0.9
-[addon-doc-matrix]: https://github.com/einschmidt/addon-matrix/blob/v0.0.9/README.md
-[matrix-issue]: https://github.com/einschmidt/addon-matrix/issues
-[matrix-version-shield]: https://img.shields.io/badge/version-v0.0.9-blue.svg
-[matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[matrix-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-pocket-id]: https://github.com/einschmidt/app-pocket-id/tree/1095670
 [addon-doc-pocket-id]: https://github.com/einschmidt/app-pocket-id/blob/1095670/README.md
 [pocket-id-issue]: https://github.com/einschmidt/app-pocket-id/issues
@@ -260,15 +225,6 @@ SOFTWARE.
 [yarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [yarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [yarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/v0.1.1
-[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/v0.1.1/README.md
-[youtube-dl-issue]: https://github.com/einschmidt/addon-youtube-dl/issues
-[youtube-dl-version-shield]: https://img.shields.io/badge/version-v0.1.1-blue.svg
-[youtube-dl-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[youtube-dl-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[youtube-dl-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[youtube-dl-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[youtube-dl-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons

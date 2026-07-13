@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.3.10
+- Merge pull request #108 from einschmidt/renovate/pocket-id-pocket-id-2.x
 
-## 🐛 Bug fixes
-
-- Fix pocket-id path @einschmidt ([#107](https://github.com/einschmidt/app-pocket-id/pull/107))
+⬆️ Update pocket-id/pocket-id to v2.11.0 
+- ⬆️ Update pocket-id/pocket-id to v2.11.0 

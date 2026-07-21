@@ -1,9 +1,5 @@
-## What’s changed
+# Changelog since v1.0.6
+- Merge pull request #270 from einschmidt/renovate/alpine_3_24-nginx-1.x
 
-## 🧰 Maintenance
-
-- Adopt workflows @einschmidt ([#268](https://github.com/einschmidt/app-yarr/pull/268))
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update nkanaev/yarr to v2.8 @[renovate[bot]](https://github.com/apps/renovate) ([#269](https://github.com/einschmidt/app-yarr/pull/269))
+⬆️ Update alpine_3_24/nginx to v1.30.4-r0 
+- ⬆️ Update alpine_3_24/nginx to v1.30.4-r0 

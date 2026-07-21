@@ -1,4 +1,8 @@
 # Changelog since v1.0.8
+- Merge pull request #185 from einschmidt/renovate/alpine_3_24-nginx-1.x
+
+⬆️ Update alpine_3_24/nginx to v1.30.4-r0 
+- ⬆️ Update alpine_3_24/nginx to v1.30.4-r0 
 - ⬆️ Update alpine_3_24/tzdata to v2026c-r0 (#184)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

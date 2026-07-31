@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v1.4.1
+- ⬆️ Update App base image to v21.0.1 (#111)
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update pocket-id/pocket-id to v2.12.0 @[renovate[bot]](https://github.com/apps/renovate) ([#110](https://github.com/einschmidt/app-pocket-id/pull/110))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

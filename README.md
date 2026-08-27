@@ -189,10 +189,10 @@ SOFTWARE.
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [freshrss-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [freshrss-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-fusion]: https://github.com/einschmidt/app-fusion/tree/49ce6de
-[addon-doc-fusion]: https://github.com/einschmidt/app-fusion/blob/49ce6de/README.md
+[addon-fusion]: https://github.com/einschmidt/app-fusion/tree/5bd2b60
+[addon-doc-fusion]: https://github.com/einschmidt/app-fusion/blob/5bd2b60/README.md
 [fusion-issue]: https://github.com/einschmidt/app-fusion/issues
-[fusion-version-shield]: https://img.shields.io/badge/version-49ce6de-blue.svg
+[fusion-version-shield]: https://img.shields.io/badge/version-5bd2b60-blue.svg
 [fusion-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [fusion-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [fusion-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

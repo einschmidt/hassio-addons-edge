@@ -1,9 +1,10 @@
-# Changelog since v0.1.28
-- ⬆️ Update App base image to v9.4.0 (#46)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #45 from einschmidt:adopt-workflows
+## 🧰 Maintenance
 
-Adopt workflows 
-- Adopt workflows 
-- Pin workflow versions 
+- Adopt workflows @einschmidt ([#45](https://github.com/einschmidt/app-authelia/pull/45))
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update App base image to v9.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#46](https://github.com/einschmidt/app-authelia/pull/46))
+- ⬆️ Update authelia/authelia to v4.39.22 @[renovate[bot]](https://github.com/apps/renovate) ([#47](https://github.com/einschmidt/app-authelia/pull/47))

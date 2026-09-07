@@ -1,4 +1,8 @@
 # Changelog since v1.0.6
+- Merge pull request #276 from einschmidt/renovate/nkanaev-yarr-2.x
+
+⬆️ Update nkanaev/yarr to v2.9 
+- ⬆️ Update nkanaev/yarr to v2.9 
 - ⬆️ Update Add-on base image to v21.0.4 (#275)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

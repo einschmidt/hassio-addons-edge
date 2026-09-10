@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v0.1.30
+- Merge pull request #49 from einschmidt/renovate/authelia-authelia-4.x
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update authelia/authelia to v4.39.23 @[renovate[bot]](https://github.com/apps/renovate) ([#48](https://github.com/einschmidt/app-authelia/pull/48))
+⬆️ Update authelia/authelia to v4.39.25 
+- ⬆️ Update authelia/authelia to v4.39.25 

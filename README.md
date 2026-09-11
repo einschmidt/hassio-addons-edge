@@ -207,10 +207,10 @@ SOFTWARE.
 [lldap-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [lldap-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [lldap-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-pocket-id]: https://github.com/einschmidt/app-pocket-id/tree/19d9b3e
-[addon-doc-pocket-id]: https://github.com/einschmidt/app-pocket-id/blob/19d9b3e/README.md
+[addon-pocket-id]: https://github.com/einschmidt/app-pocket-id/tree/29aa94b
+[addon-doc-pocket-id]: https://github.com/einschmidt/app-pocket-id/blob/29aa94b/README.md
 [pocket-id-issue]: https://github.com/einschmidt/app-pocket-id/issues
-[pocket-id-version-shield]: https://img.shields.io/badge/version-19d9b3e-blue.svg
+[pocket-id-version-shield]: https://img.shields.io/badge/version-29aa94b-blue.svg
 [pocket-id-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pocket-id-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pocket-id-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

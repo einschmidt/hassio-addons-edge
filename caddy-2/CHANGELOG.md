@@ -1,4 +1,12 @@
 # Changelog since v3.1.2
+- Merge pull request #302 from einschmidt/renovate/einschmidt-workflows-0.x
+
+⬆️ Update einschmidt/workflows action to v0.1.2 
+- ⬆️ Update einschmidt/workflows action to v0.1.2 
+- Merge pull request #303 from einschmidt/renovate/app-base-image
+
+⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#301)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

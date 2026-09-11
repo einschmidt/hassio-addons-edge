@@ -198,10 +198,10 @@ SOFTWARE.
 [fusion-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [fusion-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [fusion-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-lldap]: https://github.com/einschmidt/app-lldap/tree/c56e691
-[addon-doc-lldap]: https://github.com/einschmidt/app-lldap/blob/c56e691/README.md
+[addon-lldap]: https://github.com/einschmidt/app-lldap/tree/437460f
+[addon-doc-lldap]: https://github.com/einschmidt/app-lldap/blob/437460f/README.md
 [lldap-issue]: https://github.com/einschmidt/app-lldap/issues
-[lldap-version-shield]: https://img.shields.io/badge/version-c56e691-blue.svg
+[lldap-version-shield]: https://img.shields.io/badge/version-437460f-blue.svg
 [lldap-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lldap-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lldap-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

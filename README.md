@@ -162,10 +162,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-authelia]: https://github.com/einschmidt/app-authelia/tree/cc53609
-[addon-doc-authelia]: https://github.com/einschmidt/app-authelia/blob/cc53609/README.md
+[addon-authelia]: https://github.com/einschmidt/app-authelia/tree/69db1f7
+[addon-doc-authelia]: https://github.com/einschmidt/app-authelia/blob/69db1f7/README.md
 [authelia-issue]: https://github.com/einschmidt/app-authelia/issues
-[authelia-version-shield]: https://img.shields.io/badge/version-cc53609-blue.svg
+[authelia-version-shield]: https://img.shields.io/badge/version-69db1f7-blue.svg
 [authelia-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [authelia-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [authelia-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

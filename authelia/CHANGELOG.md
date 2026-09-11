@@ -1,5 +1,5 @@
-# Changelog since v0.1.30
-- Merge pull request #49 from einschmidt/renovate/authelia-authelia-4.x
+# Changelog since v0.1.31
+- Merge pull request #50 from einschmidt/renovate/einschmidt-workflows-0.x
 
-⬆️ Update authelia/authelia to v4.39.25 
-- ⬆️ Update authelia/authelia to v4.39.25 
+⬆️ Update einschmidt/workflows action to v0.1.2 
+- ⬆️ Update einschmidt/workflows action to v0.1.2 

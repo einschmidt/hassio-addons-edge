@@ -1,4 +1,8 @@
 # Changelog since v1.0.9
+- Merge pull request #194 from einschmidt/renovate/tzdata-2026.x
+
+⬆️ Update tzdata APK package to v2026d-r0 
+- ⬆️ Update tzdata APK package to v2026d-r0 
 - Merge pull request #193 from einschmidt/renovate/einschmidt-workflows-0.x
 
 ⬆️ Update einschmidt/workflows action to v0.1.2 

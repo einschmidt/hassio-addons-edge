@@ -1,9 +1,4 @@
-## What’s changed
+# Changelog since v1.4.5
+- ⬆️ Update App base image to v21.0.6 (#122)
 
-## 🧰 Maintenance
-
-- Migrate the user bundle to /etc/s6-overlay/user-bundles.d @einschmidt ([#120](https://github.com/einschmidt/app-pocket-id/pull/120))
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update pocket-id/pocket-id to v2.16.0 @[renovate[bot]](https://github.com/apps/renovate) ([#121](https://github.com/einschmidt/app-pocket-id/pull/121))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

@@ -1,5 +1,5 @@
 name: Pocket ID
-version: af14e7b
+version: df7af4c
 slug: pocket-id
 description: Simple OIDC provider for passkey authentication
 url: https://github.com/einschmidt/app-pocket-id

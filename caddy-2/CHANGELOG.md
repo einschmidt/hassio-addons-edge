@@ -1,46 +1,21 @@
-# Changelog since v3.1.2
-- Merge pull request #306 from einschmidt/renovate/caddyserver-caddy-2.x
+## What’s changed
 
-⬆️ Update caddyserver/caddy to v2.11.6 
-- ⬆️ Update caddyserver/caddy to v2.11.6 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#305)
+## 🧰 Maintenance
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#304)
+- Pin Workflows @einschmidt ([#295](https://github.com/einschmidt/app-caddy-2/pull/295))
+- Adopt workflows @einschmidt ([#297](https://github.com/einschmidt/app-caddy-2/pull/297))
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d @einschmidt ([#307](https://github.com/einschmidt/app-caddy-2/pull/307))
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #302 from einschmidt/renovate/einschmidt-workflows-0.x
+## ⬆️ Dependency updates
 
-⬆️ Update einschmidt/workflows action to v0.1.2 
-- ⬆️ Update einschmidt/workflows action to v0.1.2 
-- Merge pull request #303 from einschmidt/renovate/app-base-image
-
-⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#301)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#300)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#299)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#298)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #297 from einschmidt:adopt-workflows
-
-Adopt workflows 
-- Adopt workflows 
-- Change min-spaces-from-content from 2 to 1 
-- ⬆️ Update alpine_3_24/nss-tools to v3.124-r0 (#296)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #295 from einschmidt/pin-versions 
-- Pin Workflows 
-- Merge pull request #294 from einschmidt/renovate/major-app-base-image
-
-⬆️ Update App base image to v21 
-- Align renovate with upstream image 
-- ⬆️ Update App base image to v21 
+- ⬆️ Update App base image to v21 @[renovate[bot]](https://github.com/apps/renovate) ([#294](https://github.com/einschmidt/app-caddy-2/pull/294))
+- ⬆️ Update alpine_3_24/nss-tools to v3.124-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#296](https://github.com/einschmidt/app-caddy-2/pull/296))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#298](https://github.com/einschmidt/app-caddy-2/pull/298))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#299](https://github.com/einschmidt/app-caddy-2/pull/299))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#300](https://github.com/einschmidt/app-caddy-2/pull/300))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 @[renovate[bot]](https://github.com/apps/renovate) ([#301](https://github.com/einschmidt/app-caddy-2/pull/301))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 @[renovate[bot]](https://github.com/apps/renovate) ([#303](https://github.com/einschmidt/app-caddy-2/pull/303))
+- ⬆️ Update einschmidt/workflows action to v0.1.2 @[renovate[bot]](https://github.com/apps/renovate) ([#302](https://github.com/einschmidt/app-caddy-2/pull/302))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 @[renovate[bot]](https://github.com/apps/renovate) ([#304](https://github.com/einschmidt/app-caddy-2/pull/304))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 @[renovate[bot]](https://github.com/apps/renovate) ([#305](https://github.com/einschmidt/app-caddy-2/pull/305))
+- ⬆️ Update caddyserver/caddy to v2.11.6 @[renovate[bot]](https://github.com/apps/renovate) ([#306](https://github.com/einschmidt/app-caddy-2/pull/306))

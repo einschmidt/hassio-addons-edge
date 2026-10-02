@@ -1,7 +1,7 @@
-# Changelog since v1.4.5
-- ⬆️ Update App base image to v21.0.7 (#123)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update App base image to v21.0.6 (#122)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update App base image to v21.0.6 @[renovate[bot]](https://github.com/apps/renovate) ([#122](https://github.com/einschmidt/app-pocket-id/pull/122))
+- ⬆️ Update App base image to v21.0.7 @[renovate[bot]](https://github.com/apps/renovate) ([#123](https://github.com/einschmidt/app-pocket-id/pull/123))
+- ⬆️ Update pocket-id/pocket-id to v2.17.0 @[renovate[bot]](https://github.com/apps/renovate) ([#124](https://github.com/einschmidt/app-pocket-id/pull/124))

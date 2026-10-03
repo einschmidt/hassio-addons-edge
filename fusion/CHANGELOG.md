@@ -1,4 +1,8 @@
 # Changelog since v0.2.3
+- Merge pull request #39 from einschmidt:mov
+
+Migrate the user bundle to /etc/s6-overlay/user-bundles.d 
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#38)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

@@ -1,4 +1,8 @@
 # Changelog since v1.0.9
+- Merge pull request #197 from einschmidt/renovate/freshrss-freshrss-1.x
+
+⬆️ Update FreshRSS/FreshRSS to v1.30.1 
+- ⬆️ Update FreshRSS/FreshRSS to v1.30.1 
 - ⬆️ Update App base image to v21.0.7 (#196)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

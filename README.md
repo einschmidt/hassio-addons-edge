@@ -171,10 +171,10 @@ SOFTWARE.
 [authelia-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [authelia-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [authelia-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-caddy-2]: https://github.com/einschmidt/app-caddy-2/tree/3ee4997
-[addon-doc-caddy-2]: https://github.com/einschmidt/app-caddy-2/blob/3ee4997/README.md
+[addon-caddy-2]: https://github.com/einschmidt/app-caddy-2/tree/740ef7a
+[addon-doc-caddy-2]: https://github.com/einschmidt/app-caddy-2/blob/740ef7a/README.md
 [caddy-2-issue]: https://github.com/einschmidt/app-caddy-2/issues
-[caddy-2-version-shield]: https://img.shields.io/badge/version-3ee4997-blue.svg
+[caddy-2-version-shield]: https://img.shields.io/badge/version-740ef7a-blue.svg
 [caddy-2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [caddy-2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

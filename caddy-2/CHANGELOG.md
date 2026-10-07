@@ -1,5 +1,4 @@
-# Changelog since v3.1.3
-- Merge pull request #308 from einschmidt/renovate/caddyserver-caddy-2.x
+# Changelog since v3.1.4
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#309)
 
-⬆️ Update caddyserver/caddy to v2.11.7 
-- ⬆️ Update caddyserver/caddy to v2.11.7 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

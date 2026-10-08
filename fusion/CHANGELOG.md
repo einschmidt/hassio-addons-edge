@@ -1,33 +1,18 @@
-# Changelog since v0.2.3
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#40)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #39 from einschmidt:mov
+## 🧰 Maintenance
 
-Migrate the user bundle to /etc/s6-overlay/user-bundles.d 
-- Migrate the user bundle to /etc/s6-overlay/user-bundles.d 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#38)
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d @einschmidt ([#39](https://github.com/einschmidt/app-fusion/pull/39))
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#37)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#36)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #35 from einschmidt/renovate/einschmidt-workflows-0.x
-
-⬆️ Update einschmidt/workflows action to v0.1.2 
-- ⬆️ Update einschmidt/workflows action to v0.1.2 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#34)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#33)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#32)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#31)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#31](https://github.com/einschmidt/app-fusion/pull/31))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#32](https://github.com/einschmidt/app-fusion/pull/32))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#33](https://github.com/einschmidt/app-fusion/pull/33))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 @[renovate[bot]](https://github.com/apps/renovate) ([#34](https://github.com/einschmidt/app-fusion/pull/34))
+- ⬆️ Update einschmidt/workflows action to v0.1.2 @[renovate[bot]](https://github.com/apps/renovate) ([#35](https://github.com/einschmidt/app-fusion/pull/35))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 @[renovate[bot]](https://github.com/apps/renovate) ([#36](https://github.com/einschmidt/app-fusion/pull/36))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 @[renovate[bot]](https://github.com/apps/renovate) ([#37](https://github.com/einschmidt/app-fusion/pull/37))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 @[renovate[bot]](https://github.com/apps/renovate) ([#38](https://github.com/einschmidt/app-fusion/pull/38))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 @[renovate[bot]](https://github.com/apps/renovate) ([#40](https://github.com/einschmidt/app-fusion/pull/40))
+- ⬆️ Update 0x2E/fusion to v1.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#41](https://github.com/einschmidt/app-fusion/pull/41))

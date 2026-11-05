@@ -1,5 +1,5 @@
 name: Authelia
-version: d337e7f
+version: aaf4a22
 slug: authelia
 description: Authentication and Authorization Server
 url: https://github.com/einschmidt/app-authelia

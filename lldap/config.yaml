@@ -1,5 +1,5 @@
 name: LLDAP
-version: 99e80ae
+version: 02532de
 slug: lldap
 description: Lightweight Authentication Server
 url: https://github.com/einschmidt/app-lldap

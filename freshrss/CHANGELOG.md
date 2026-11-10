@@ -1,4 +1,7 @@
 # Changelog since v1.0.11
+- ⬆️ Update App base image to v21.0.11 (#207)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/tzdata to v2026f-r0 (#206)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

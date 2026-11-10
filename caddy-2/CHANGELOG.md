@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v3.1.6
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#314)
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update caddyserver/caddy to v2.11.9 @[renovate[bot]](https://github.com/apps/renovate) ([#313](https://github.com/einschmidt/app-caddy-2/pull/313))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

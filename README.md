@@ -216,10 +216,10 @@ SOFTWARE.
 [pocket-id-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [pocket-id-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [pocket-id-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-yarr]: https://github.com/einschmidt/app-yarr/tree/bf3ba56
-[addon-doc-yarr]: https://github.com/einschmidt/app-yarr/blob/bf3ba56/README.md
+[addon-yarr]: https://github.com/einschmidt/app-yarr/tree/f9b5333
+[addon-doc-yarr]: https://github.com/einschmidt/app-yarr/blob/f9b5333/README.md
 [yarr-issue]: https://github.com/einschmidt/app-yarr/issues
-[yarr-version-shield]: https://img.shields.io/badge/version-bf3ba56-blue.svg
+[yarr-version-shield]: https://img.shields.io/badge/version-f9b5333-blue.svg
 [yarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [yarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [yarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

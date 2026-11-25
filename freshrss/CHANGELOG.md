@@ -1,22 +1,4 @@
-# Changelog since v1.0.11
-- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#209)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/git to v2.54.1-r0 (#208)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update App base image to v21.0.11 (#207)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/tzdata to v2026f-r0 (#206)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update App base image to v21.0.10 (#205)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update App base image to v21.0.9 (#204)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#203)
+# Changelog since v1.0.12
+- ⬆️ Update App base image to v21.0.12 (#211)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
